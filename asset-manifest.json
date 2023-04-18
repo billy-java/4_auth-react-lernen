@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/4_auth-react-lernen/static/css/main.c2cab247.css",
+    "main.js": "/4_auth-react-lernen/static/js/main.7bb05f9f.js",
+    "static/media/public.jpg": "/4_auth-react-lernen/static/media/public.c70e2078d8895c0c228f.jpg",
+    "static/media/private.jpg": "/4_auth-react-lernen/static/media/private.927efcad304b5c5b5905.jpg",
+    "index.html": "/4_auth-react-lernen/index.html",
+    "main.c2cab247.css.map": "/4_auth-react-lernen/static/css/main.c2cab247.css.map",
+    "main.7bb05f9f.js.map": "/4_auth-react-lernen/static/js/main.7bb05f9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.7bb05f9f.js"
+  ]
+}
